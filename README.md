@@ -14,7 +14,7 @@ Aqui estão alguns exercícios que envolvem a criação de códigos para a resol
 
 - Introdução a websites com HTML5 e CSS3 💻
 
-Encontra nesse diretório um escopo de site inicial usando as tecnologias HTML5 e CSS3.
+Encontra-se nesse diretório um escopo de site inicial usando as tecnologias HTML5 e CSS3.
 
 
 
